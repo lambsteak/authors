@@ -1,0 +1,6 @@
+The Data subdirectory contains the dataset used and the corresponding scripts written to collect them.
+
+The given repository has the following files:
+main_analysis.ipynb and main_analysis_gutenberg.ipynb: These contain the Naive Bayes and SVM models, trained with count and tf-idf vectorization
+dl_model1.ipynb: Simple MLP architecture neural network trained on the Reuters dataset, with the same vectorization techniques as mentioned above.
+gutenberg_model.ipynb: An NN model with the same architecture as above but trained on the Gutenberg dataset.
